@@ -16,12 +16,12 @@
   "angle": {
     "type": "sparkmax_neo",
     "id": 5,
-    "canbus": "Rio"
+    "canbus": "rio"
   },
   "encoder": {
     "type": "cancoder",
     "id": 20,
-    "canbus": "Rio"
+    "canbus": "rio"
   },
   "absoluteEncoderInverted": false
 }
